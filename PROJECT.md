@@ -1,8 +1,8 @@
 # Fill out your Project Information
 
-Student1: \<name-1>
+Student1: \Leonie Wehnert
 
-Student2: \<name-2>
+Student2: \CHristina Parpoulas
 
 Project Github url: \<github-url> 
 
